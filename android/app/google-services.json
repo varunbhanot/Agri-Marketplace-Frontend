@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "744237594494",
+    "project_id": "agriproject-bdd22",
+    "storage_bucket": "agriproject-bdd22.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744237594494:android:2f8987aeb2c8102b57252f",
+        "android_client_info": {
+          "package_name": "com.example.demo_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDh7yXDKcAjW12dRGScXAK6MuWQ7Li3qxc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
